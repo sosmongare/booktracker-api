@@ -1,0 +1,5 @@
+- Register the application through settings.py
+- Define database credentials on settings.py
+- Model create to define the logic of the application
+- Model - replace the database View Template
+- APi reqs. _> dDRF(djangorestframework), django-cors-headers
