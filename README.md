@@ -1,6 +1,7 @@
-# Book Tracker API using Django and MySQL
+# Book Tracker API using Django and MySQL 
+- (TechOps Session - October 24, 2023)
 
-Welcome to the Book Tracker API, the backend component of a web application developed with Django and MySQL. This API serves as the foundation for managing and tracking books and their respective authors.
+Welcome to the Book Tracker API, the backend component of a web application developed with Django and MySQL. This API serves as the foundation for managing and tracking books read and their respective authors.
 
 ## Table of Contents
 - [Book Tracker API using Django and MySQL](#book-tracker-api-using-django-and-mysql)
